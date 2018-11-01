@@ -7687,7 +7687,7 @@ react-dev-utils@^6.1.0:
     strip-ansi "4.0.0"
     text-table "0.2.0"
 
-react-dom@16.6.0:
+react-dom@^16.6.0:
   version "16.6.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.6.0.tgz#6375b8391e019a632a89a0988bce85f0cc87a92f"
   integrity sha512-Stm2D9dXEUUAQdvpvhvFj/DEXwC2PAL/RwEMhoN4dvvD2ikTlJegEXf97xryg88VIAU22ZAP7n842l+9BTz6+w==
@@ -7701,6 +7701,11 @@ react-error-overlay@^5.0.6:
   version "5.0.6"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.0.6.tgz#3d9adba42082e182f873212960263e25d622fc1c"
   integrity sha512-zB78cLzIL43cAso2dfrrZbu/MFUM+8FiGVH9j28peI6kvtIM870wmw1qjLA6g83DqNpXxuRdVNLimQJ6O9x2qA==
+
+react-lines-ellipsis@^0.13.2:
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/react-lines-ellipsis/-/react-lines-ellipsis-0.13.2.tgz#0d5726ab1f5e8107398262f5faf16e2e4de08951"
+  integrity sha512-4r4PdfR0l0KNbiIp9U6+9Yiap030brPdHuBECqseEfNMZpTsMQrTiqVxUnQ4fnUnv+xwzj1/pDuLSRmc37XSJA==
 
 react-scripts@2.1.0:
   version "2.1.0"
@@ -7757,7 +7762,7 @@ react-scripts@2.1.0:
   optionalDependencies:
     fsevents "1.2.4"
 
-react@16.6.0:
+react@^16.6.0:
   version "16.6.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.6.0.tgz#b34761cfaf3e30f5508bc732fb4736730b7da246"
   integrity sha512-zJPnx/jKtuOEXCbQ9BKaxDMxR0001/hzxXwYxG8septeyYGfsgAei6NgfbVgOhbY1WOP2o3VPs/E9HaN+9hV3Q==

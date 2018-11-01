@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-lines-ellipsis": "^0.13.2",
     "react-scripts": "2.1.0"
   },
   "scripts": {
@@ -21,5 +22,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "http://devstuki.github.io/movie_app"
 }
